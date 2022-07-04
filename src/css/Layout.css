@@ -1,0 +1,67 @@
+.ui.secondary.menu .active.item {
+  color: white !important;
+  font-weight: bold !important;
+}
+
+.ui.secondary.menu .item {
+  color: white !important;
+  font-weight: bold !important;
+}
+
+.ui.secondary.menu .active.item {
+  background: rgb(0 0 0 / 25%) !important;
+}
+
+div.ui.dropdown {
+  align-self: center;
+  padding: 8px;
+  border-radius: 4px;
+  color: white;
+  font-weight: bold;
+}
+
+div.ui.card {
+  background: #f2efef;
+}
+
+.active {
+  background: #00000036;
+}
+
+ui.card .meta {
+  background: rgb(25 23 23 / 77%) !important;
+}
+
+div.extra.content button:hover {
+  border: 1px solid black !important;
+  background: white !important;
+  color: black !important;
+}
+
+/*div.extra.content button:focus {
+  border: none !important;
+  background: green !important;
+  color: white !important;
+}*/
+
+.addToCart {
+  background-color: rgb(59 110 201) !important;
+  cursor: "pointer";
+}
+
+.RemoveFromCart {
+  background-color: rgb(201, 59, 59) !important;
+  cursor: "pointer";
+}
+
+div.right.menu div.item {
+  margin-right: 650px !important;
+}
+
+div.right.menu a.item {
+  margin-right: 30px !important;
+}
+
+div.ui.container.three.column.grid {
+  margin-top: 10px;
+}
